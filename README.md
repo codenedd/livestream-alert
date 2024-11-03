@@ -22,8 +22,3 @@ Create an issue [here](https://github.com/codenedd/livestream-alert/issues) and 
 
 ## Contact
 Discord: `c0de.js`
-
-## Support my work
-Buymeacoffe
-
-Thanks for all support ;)
