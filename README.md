@@ -1,3 +1,8 @@
+
+<div style="text-align: center;">
+  <img width="350" src="https://github.com/user-attachments/assets/40df4aae-4849-4899-953e-12eff85a9753" />
+</div>
+
 # LiveStream Alert
 A simple desktop app to get notifications when your favorite streamer starts streaming live on Twitch.tv. Created as a hobby project, **free to use.**
 
