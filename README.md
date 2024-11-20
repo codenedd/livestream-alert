@@ -24,5 +24,8 @@ A simple desktop app to get notifications when your favorite streamer starts str
 ## How can I report a bug/issue?
 [Create an issue](https://github.com/codenedd/livestream-alert/issues) and describe it in details, inlcude logs from `%appdata%/livestream-alert/logs`, attach screenshots if possible. Remember to describe the way to reproduce the bug.
 
+## Is LiveStream Alert safe?
+You can see the [VirusTotal security scan](https://www.virustotal.com/gui/file/52cb44501d4eed5ef9e46727ed293e751676dc93e17e79740159aa6e0651ade0/detection). The application does not store or transmit any sensitive data of its user.
+
 ## Contact
 Discord: `c0de.js`
