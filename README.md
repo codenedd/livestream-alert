@@ -22,7 +22,7 @@ A simple desktop app to get notifications when your favorite streamer starts str
 </div>
 
 ## How can I report a bug/issue?
-Create an issue [here](https://github.com/codenedd/livestream-alert/issues) and describe it in details, attach screenshots if possible. Remember to describe the way to reproduce the bug.
+[Create an issue](https://github.com/codenedd/livestream-alert/issues) and describe it in details, inlcude logs from `%appdata%/livestream-alert/logs`, attach screenshots if possible. Remember to describe the way to reproduce the bug.
 
 ## Contact
 Discord: `c0de.js`
